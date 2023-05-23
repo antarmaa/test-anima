@@ -1,0 +1,29 @@
+.sitemap {
+  height: 277px;
+  position: relative;
+  width: 190px;
+}
+
+.sitemap .COMPANY {
+  color: #ffffff;
+  font-family: "Open Sans", Helvetica;
+  font-size: 28px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -4px;
+}
+
+.sitemap .donec-dignissim-cura {
+  color: #ffffff;
+  font-family: "Open Sans", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 1px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 77px;
+}

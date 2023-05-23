@@ -1,0 +1,29 @@
+.title-titlecenteralign {
+  height: 138px;
+  position: relative;
+  width: 870px;
+}
+
+.title-titlecenteralign .quisque-ut-metus {
+  color: #000000de;
+  font-family: "Open Sans", Helvetica;
+  font-size: 100px;
+  font-weight: 600;
+  left: 6px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.title-titlecenteralign .title-titlecenteralign-active-indicator {
+  background: linear-gradient(180deg, rgb(178, 235, 242) 0%, rgb(209, 196, 233) 100%);
+  border-radius: 17px;
+  height: 26px;
+  left: 363px;
+  position: absolute;
+  top: 113px;
+  width: 145px;
+}

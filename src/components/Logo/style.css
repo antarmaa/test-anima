@@ -1,0 +1,26 @@
+.logo {
+  height: 231px;
+  position: relative;
+  width: 168px;
+}
+
+.logo .mobile {
+  color: #673ab7;
+  font-family: "Open Sans", Helvetica;
+  font-size: 36px;
+  font-weight: 600;
+  left: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 172px;
+}
+
+.logo .logo-luxi-mobile {
+  height: 163px;
+  left: 5px;
+  position: absolute;
+  top: 5px;
+  width: 158px;
+}

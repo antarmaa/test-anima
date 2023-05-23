@@ -1,0 +1,28 @@
+.title-subtitle-alignleft {
+  height: 98px;
+  position: relative;
+  width: 1109px;
+}
+
+.title-subtitle-alignleft .title-subtitle-alignleft-vivamus-sit-amet-int {
+  color: #000000de;
+  font-family: "Open Sans", Helvetica;
+  font-size: 72px;
+  font-weight: 600;
+  left: 71px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 1038px;
+}
+
+.title-subtitle-alignleft .title-subtitle-alignleft-oval {
+  background-color: #b2ebf2;
+  border-radius: 18.5px;
+  height: 37px;
+  left: -1px;
+  position: absolute;
+  top: 35px;
+  width: 37px;
+}

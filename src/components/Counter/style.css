@@ -1,0 +1,53 @@
+.counter {
+  height: 254px;
+  width: 439px;
+}
+
+.counter .counter-overlap {
+  height: 212px;
+  left: 36px;
+  position: relative;
+  top: 42px;
+  width: 380px;
+}
+
+.counter .counter-overlap-group {
+  height: 212px;
+  left: 30px;
+  position: absolute;
+  top: 0;
+  width: 350px;
+}
+
+.counter .element {
+  color: #673ab7;
+  font-family: "Open Sans", Helvetica;
+  font-size: 96px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.counter .download {
+  color: #0000008a;
+  font-family: "Open Sans", Helvetica;
+  font-size: 64px;
+  font-weight: 400;
+  left: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 125px;
+}
+
+.counter .ios-cloud-download-outline {
+  height: 53px;
+  left: 0;
+  position: absolute;
+  top: 144px;
+  width: 56px;
+}
